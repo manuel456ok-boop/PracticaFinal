@@ -1,14 +1,14 @@
 # PracticaFinal
 
- 📋 Sistema de Gestión de Solicitudes de Servicio
+  Sistema de Gestión de Solicitudes de Servicio
 
 Este proyecto es una aplicación de consola desarrollada en **C#** que permite gestionar solicitudes de servicio técnico mediante el uso de **enumeradores (`enum`)** para estandarizar los estados, mejorando la claridad y evitando errores comunes como textos libres o mal escritos.
 
-## 🎯 Objetivo del Proyecto
+##  Objetivo del Proyecto
 
 Aplicar el uso de enum en un sistema real para representar valores constantes y controlar el flujo de estados de las solicitudes, aplicando principios de **Programación Orientada a Objetos (POO)**.
 
-## 🧠 Uso del Enumerador (`enum`)
+##  Uso del Enumerador (`enum`)
 
 El enumerador EstadoSolicitud se definió de la siguiente manera:
 `csharp
