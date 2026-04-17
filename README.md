@@ -54,6 +54,26 @@ Estructuras de control (if, switch)
 
 Interacción por consola con menú dinámico
 
+imagenes del funcionamiento del programa:
+
+<img width="1772" height="855" alt="image" src="https://github.com/user-attachments/assets/3c57df3f-fdec-469e-a231-1becbb8919da" />
+
+<img width="1658" height="841" alt="image" src="https://github.com/user-attachments/assets/b331f86d-6901-4dda-af9c-b7525f8323f5" />
+
+<img width="1667" height="853" alt="image" src="https://github.com/user-attachments/assets/07bdd789-0a1e-4c5c-b3ac-920118a82bbb" />
+
+<img width="1718" height="918" alt="image" src="https://github.com/user-attachments/assets/5db8682f-47f5-4667-bffb-26e5673e6639" />
+
+<img width="1682" height="834" alt="image" src="https://github.com/user-attachments/assets/400137e7-0a90-4239-878d-af3b0d4b4641" />
+
+<img width="1796" height="834" alt="image" src="https://github.com/user-attachments/assets/6b27f6bc-c022-43d0-aaba-c905224f6f4b" />
+
+
+
+
+
+
+
 Uso de List<T> para almacenar solicitudes
 
 Validación de entrada de datos (IDs, opciones)
